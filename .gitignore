@@ -1,0 +1,6 @@
+# Directory patterns
+.ipynb_checkpoints
+metastore_db
+
+# File patterns
+*.log
